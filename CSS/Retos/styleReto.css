@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+main {
+    background-color: burlywood;
+    border: solid black;
+    width: 40vw;
+    margin: 5rem auto;
+    border-radius: 1rem;
+}
+
+main .cabezera {
+    position: relative;
+    bottom: 1.2rem;
+    background-color: brown;
+    border: solid black;
+    width: 20vw;
+    height: 10vh;
+    margin: auto;
+    border-radius: 2rem;
+}
+
+
+h1 {
+    margin: 1vw;
+    font-size: 100%;
+    text-align:center;
+    color: aliceblue;
+}
+
+p {
+    font-size: 100%;
+    margin: 5vh 5vw;
+    text-align: justify;
+}

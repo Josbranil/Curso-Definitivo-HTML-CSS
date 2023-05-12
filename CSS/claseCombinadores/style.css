@@ -1,0 +1,15 @@
+div > p {
+  color: red;
+}
+
+p + h2 {
+  color: green;
+}
+
+p.azul {
+  color: blue;
+}
+
+section ~ p {
+  color: aqua;
+}
